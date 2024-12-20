@@ -13,6 +13,6 @@
   - Couldn't send Video to to whatsapp through Twilio.
 
 20 dec 2024:
-  Updated NXP-Interview-questions repo
-  Started "Ethical Hacking Documentation"
+  - Updated NXP-Interview-questions repo
+  - Started "Ethical Hacking Documentation"
 

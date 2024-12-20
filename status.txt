@@ -1,3 +1,7 @@
+18 dec 2024:
+  - Updated All basic commands of Sql in the respected repo.
+  - Updated Status-codes repo as well
+
 19 dec 2024:
   - Updated java-coding-things repo
   - Succeeded in screen recording in "Object detection - whatsapp alerts" things(yet to commit) 
@@ -8,3 +12,4 @@
 
 20 dec 2024:
   Updated NXP-Interview-questions repo
+

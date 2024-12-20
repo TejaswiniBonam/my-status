@@ -1,2 +1,10 @@
 19 dec 2024:
-  Updated java-coding-things repo
+  - Updated java-coding-things repo
+  - Succeeded in screen recording in "Object detection - whatsapp alerts" things(yet to commit) 
+        * Fixed "FPS - frames per second"
+        * Error - the recorded screen video duration is showing 00:00 secs and the video is passing too fast as if the video is in 20X. So, we need to decrease fps value so that the speed of video will be decreased.
+        * fps = 5; made it better.
+  - Couldn't send Video to to whatsapp through Twilio.
+
+20 dec 2024:
+  Updated NXP-Interview-questions repo
